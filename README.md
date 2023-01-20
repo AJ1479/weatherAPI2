@@ -1,6 +1,6 @@
 # weatherAPI2
 
-Extension of weatherAPI with an EJS dashboard to display weather information about a city, written in Node.js.
+Extension of weatherAPI with an EJS dashboard to display weather information about a city, written in Node.js. 
 
 
 
